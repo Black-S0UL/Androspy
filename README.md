@@ -13,7 +13,7 @@ Androspy : is Backdoor Crypter & Creator with Automatic IP Poisener Coded By Bel
 # Installation
 ```
 sudo apt-get install git
-git clone https://github.com/TunisianEagles/Androspy.git
+git clone https://github.com/Black-S0UL/Androspy.git
 cd Androspy
 chmod +x setup.sh
 sudo ./setup.sh
